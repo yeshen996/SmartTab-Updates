@@ -1,0 +1,19 @@
+```json
+{
+  "latestVersion": {
+    "version": "1.1.0",
+    "versionCode": 110,
+    "releaseDate": "2024-12-24T10:00:00Z",
+    "downloadUrl": "https://github.com/YOUR_USERNAME/SmartTab-Releases/releases/download/v1.1.0/SmartTab_v1.1.0.dll",
+    "fileSize": 4194304,
+    "md5": "请替换为实际MD5值",
+    "title": "SmartTab v1.1.0 - 在线更新版",
+    "description": "新增在线自动更新功能",
+    "changelog": "# SmartTab v1.1.0\n\n## 新功能\n- 在线自动更新\n- 保存路径记忆\n\n## 优化\n- DLL独立合并",
+    "forceUpdate": false,
+    "minVersionCode": 100
+  },
+  "updateServerUrl": "https://github.com/YOUR_USERNAME/SmartTab-Releases",
+  "checkUpdateUrl": "https://raw.githubusercontent.com/yeshen996/SmartTab-Updates/main/version.json"
+}
+```
