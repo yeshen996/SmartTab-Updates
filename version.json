@@ -1,0 +1,19 @@
+﻿{
+  "LatestVersion": {
+    "Version": "2.0.2",
+    "VersionCode": 202,
+    "ReleaseDate": "2026-05-19",
+    "Title": "测试",
+    "Description": "测试",
+    "ForceUpdate": false,
+    "MinVersionCode": 100,
+    "Changelog": "测试",
+    "FileSize": 4334592, "MD5": "086355bc47fd2a6d268417abc4a2dbbf",
+    "DownloadSources": [
+      { "Name": "Gitee", "Url": "https://gitee.com/yeshen996/SmartTab-Updates/raw/master/SmartTab_Merged_2.0.2.dll", "Priority": 1, "Region": "CN" },
+      { "Name": "jsDelivr_CDN", "Url": "https://cdn.jsdelivr.net/gh/yeshen996/SmartTab-Updates@main/SmartTab_Merged_2.0.2.dll", "Priority": 2, "Region": "CN" },
+      { "Name": "GitHub", "Url": "https://raw.githubusercontent.com/yeshen996/SmartTab-Updates/main/SmartTab_Merged_2.0.2.dll", "Priority": 3, "Region": "GLOBAL" }
+    ]
+  },
+  "DisabledVersions": [], "DisableMessage": ""
+}
